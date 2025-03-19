@@ -7,7 +7,7 @@ class Main {
 	First f3 = new Third();
 
 //  #1 - uncomment line below	
-//	f1.methodOne(); System.out.println();
+	f1.methodOne(); System.out.println();
  
 //  #2 - uncomment line below
 //	f1.methodTwo(); System.out.println();
